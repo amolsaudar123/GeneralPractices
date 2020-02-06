@@ -1,2 +1,4 @@
 # GeneralPractices
-Practice programs in Java
+OOPs
+
+1. Method hiding : "com.method.hiding"
